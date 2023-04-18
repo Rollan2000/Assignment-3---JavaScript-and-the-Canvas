@@ -1,0 +1,26 @@
+*{
+    background-color: burlywood;
+}
+
+#Card-title
+{
+font-size: 40px;
+font-family:sans-serif;
+text-align: center;
+text-decoration: underline;
+
+}
+
+.card-text 
+{
+font-size: 25px;
+font-family: sans-serif;
+text-align: center;
+
+
+}
+
+#Canvas {
+    cursor: pointer;
+    
+}
